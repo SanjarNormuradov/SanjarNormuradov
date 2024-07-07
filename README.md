@@ -1,11 +1,11 @@
-👋 Hi, I'm
-🦾 Robotics Engineer at the AI & Perception Team within [Agile Robots SE](https://www.agile-robots.com/en/)
-👀 interested in Robotic Manipulation | Autonomous Vehicles | Embedded Systems
-🌱 currently learning Computer Vision and Deep / Reinforcement Learning
-💡 Former Research Assistant at the [UW + Amazon Robotic Manipulation Project](https://robotic-manipulation.sciencehub.uw.edu/)
-📚 Former Teaching Assistant of Graduate Courses ("Introduction to Self-Driving Cars", "Software Engineering for Embedded Applications")
-🎓 completed MS in Electrical and Computer Engineering at the University of Washington - Seattle
-📫 [E-mail](snnormuradov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanjar-normuradov/)
+👋 Hi, I'm  
+🦾 Robotics Engineer at the AI & Perception Team within [Agile Robots SE](https://www.agile-robots.com/en/) <br>
+👀 interested in Robotic Manipulation | Autonomous Vehicles | Embedded Systems <br>
+🌱 currently learning Computer Vision and Deep / Reinforcement Learning <br>
+💡 Former Research Assistant at the [UW + Amazon Robotic Manipulation Project](https://robotic-manipulation.sciencehub.uw.edu/) <br>
+📚 Former Teaching Assistant of Graduate Courses ("Introduction to Self-Driving Cars", "Software Engineering for Embedded Applications") <br>
+🎓 completed MS in Electrical and Computer Engineering at the University of Washington - Seattle <br>
+📫 [E-mail](snnormuradov@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sanjar-normuradov/) <br>
 
 <!---
 SanjarNormuradov/SanjarNormuradov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
